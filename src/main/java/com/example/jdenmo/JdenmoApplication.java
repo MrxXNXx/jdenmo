@@ -2,7 +2,7 @@ package com.example.jdenmo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//dddd
 @SpringBootApplication
 public class JdenmoApplication {
 
